@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57dd9b00-5ca2-431b-a68b-6101dbd09a6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Main$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Main$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Main2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Main3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/MetaClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/MetaConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/MetaField.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/MetaMethod.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/TestAbstract.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/TestInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/TestSomeExtended.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Khasanf-reflection/io/khasang/reflection/TestSomeExtendedExtended.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/пше" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Khasanf-reflection.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/MetaClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/MetaConstructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/MetaField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/MetaMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/TestAbstract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/TestInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/TestSomeExtended.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/khasang/reflection/TestSomeExtendedExtended.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/пше" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -361,12 +327,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549446030615</updated>
-      <workItem from="1549446037099" duration="12533000" />
+      <workItem from="1549446037099" duration="12718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12533000" />
+    <option name="totallyTimeSpent" value="12718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="21" width="1838" height="997" extended-state="0" />
