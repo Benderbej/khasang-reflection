@@ -39,7 +39,8 @@ public class Main3 {
         //String s3 = manager.getSuperclass().getSuperclass().toString();//здесь ловим налпойнтер(если наш класс ничего не экстендит, например Test), потому что суперклассом объекта Object.class является собственно Object
         //System.out.println("\ns3="+s3+"\n");
 
-        //то есть как бы иерархия типов для SomeClass такова SomeClass.class <- Object.class <- Object
+        //то есть как бы иерархия типов для SomeClass такова SomeClass.class <- Object.class <- Object       -????????
+        //на самом деле это конечно не иерархия типов, а особенность метода getSuperclass() который сначала идет по классам с параметризованными типами а потом утыкается в "реальный" тип Object
 
         //то есть getSuperClass() возвращает объекты классов Class то есть пареметризованные типы Class<T>, а не собственно типы
 
